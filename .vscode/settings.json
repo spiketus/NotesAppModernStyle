@@ -1,0 +1,5 @@
+{
+    "code-runner.executorMap": {
+    "cpp": "cd $dir && g++ $fileName -o main -lgdi32 -mwindows && ./main"
+}
+}
